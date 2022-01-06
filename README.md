@@ -1,10 +1,14 @@
-# PHP Application
-PHP application "hello-world" with NGINX, MySQL, Docker and Docker-compose
+# PHP and Python APP using Docker containers
 
-## Setup and run Application:
+In this repository you can find:
 
-- `git clone` repository_name
-- `cd` directory_name
-- `docker-compose up -d`
-- `ip -a` Find Docker IP address (172.17.X.X)
-- Open on useragent`http://172.17.X.X` 
+- PHP conteiner with NGINX and MySQL
+- Python conteiner with Flask APP
+
+## Working directory
+
+[1. /PHP](https://github.com/OlesYudin/Docker-PHP/tree/main/Docker-PHP "Docker PHP")
+[2. /Python](https://github.com/OlesYudin/Docker-PHP/tree/main/Docker-flask_cat "Docker Python")
+
+Support:
+[Article about PHP infrastructure](https://github.com/OlesYudin/Docker-PHP/tree/main/Docker-PHP "PHP") and [Get start with Docker python](https://github.com/OlesYudin/Docker-PHP/tree/main/Docker-PHP "Python")
