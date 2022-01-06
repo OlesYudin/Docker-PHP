@@ -1,4 +1,4 @@
-# PHP and Python APP using Docker containers
+# <div align="center">PHP and Python APP using Docker containers</div>
 
 In this repository you can find:
 
