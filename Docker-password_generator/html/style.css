@@ -12,11 +12,12 @@ header {
 	justify-content: center;
 	align-items: center;
 }
-.password-block {
+.password-block,
+.ip-block {
 	padding: 20px;
 	margin: 20px auto;
 	width: 200px;
-	text-align: center;	
+	text-align: center;
 
 	border: 1px solid #000;
 }

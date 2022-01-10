@@ -28,5 +28,11 @@
 			<p>Новий пароль:</p>		
 			<?php include "get_password.php";?>
 		</div>
+		<div class="ip-block">
+			<p>IP-addres:</p>		
+			<?php echo $_SERVER['SERVER_ADDR']; ?>
+		</div>
+
+		
 	</body>
 </html>
