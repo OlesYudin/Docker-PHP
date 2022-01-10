@@ -26,9 +26,3 @@ CMD ["/usr/sbin/apache2ctl", "-D", "FOREGROUND"]
 # Execute
 # docker build -t apache:v1 .
 # docker run -ti -d -p 80:80 --name=apache apache:v1
-
-# Стоп+Удалить старый контейнер, поднять новый
-# Добавить Version`s
-# Не более 3-5 версий на дженкинс
-# С дженкинса докер пуш в докер хаб
-# На AWS instance скриптом выкачиваем новый билд из докер хаб
